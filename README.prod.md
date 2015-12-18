@@ -210,7 +210,7 @@ data, queue messages, and otherwise support the Zulip application:
 * postgresql
 * rabbitmq-server
 * nginx
-* redis
+* redis-server
 * memcached
 
 If one of these services is not installed or functioning correctly,
